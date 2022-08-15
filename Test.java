@@ -1,4 +1,4 @@
-package java0202; //배열 , 십구단
+ //배열 , 십구단
 
 public class Test {
 
