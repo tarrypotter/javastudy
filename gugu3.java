@@ -1,5 +1,3 @@
-package java0101;
-
 public class gugu3 {
      //구구단
 	public static void main(String[] args) {
