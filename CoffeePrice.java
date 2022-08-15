@@ -1,4 +1,4 @@
-package java0101;  // switch문을 이용하여 커피메뉴의 가격을 알려주는 프로그램
+                    // switch문을 이용하여 커피메뉴의 가격을 알려주는 프로그램
                    // 카페라떼 3500  아메리카노 2000
 import java.util.Scanner;
 public class CoffeePrice {
