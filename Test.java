@@ -1,13 +1,10 @@
-package java0101;
+package java0202; //배열 , 십구단
 
 public class Test {
 
 	public static void main(String[] args) {
-		int a=5;
-		int b=3;
 		
-		System.out.print("a+b= ");	
-		System.out.println( a+b);
+		System.out.println("<배열>");
 		
 		int [] c= new int [5];
 		
@@ -18,15 +15,21 @@ public class Test {
 		System.out.print(c[2] + " ");
 		System.out.print(c[3] + " ");
 		System.out.print(c[4] + " ");
-		
 		System.out.println();
+		System.out.println("----------------------");
 		
-		int d=0; 
-		int e=0;
-		for (d=2 ; d<=9 ; d++) {
-			for(e=1 ; e<=9 ; e++) {
+		System.out.println("<십구단>");
+		System.out.println();
+
+		
+		int a=0; 
+		int b=0;
+		for (a=2 ; a<=19 ; a++) {
+			System.out.println("<" + a + "단" + ">");
+		
+			for(b=1 ; b<=19 ; b++) {
 				
-				System.out.println( d + " * " + e + " = " + d*e);
+				System.out.println( a + " * " + b + " = " + a*b);
 			}		
 		}
 	}
