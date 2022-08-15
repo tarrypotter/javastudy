@@ -1,4 +1,4 @@
-package java0101;  //스캐너 안한 학점 구하기
+  //스캐너 안한 학점 구하기
 
 public class GradingNoScanner {
 
