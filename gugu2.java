@@ -1,4 +1,4 @@
-package java0101;
+
 
 public class gugu2 {
      //구구단
