@@ -1,4 +1,3 @@
-package java0101;
 import java.util.Date;
 public class DateTest {
 
