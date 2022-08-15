@@ -1,11 +1,12 @@
-import java.util.Date;   //import선언
+package java0101;
+import java.util.Date;
+public class DateTest {
 
-public class DateTest
-{
-    public static void main(String[]args)
-    {
-       Date today = new Date();
- 
-       System.out.println(today);
-  }
+	public static void main(String[] args) {
+		  Date today = new Date();
+		  
+		  System.out.println(today);
+
+	}
+
 }
