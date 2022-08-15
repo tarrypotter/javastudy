@@ -1,5 +1,3 @@
-package java0101;
-
 public class Array2 {
 
 	public static void main(String[] args) {
