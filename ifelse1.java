@@ -1,4 +1,3 @@
-package java0101;
 
 public class ifelse1 {
 
