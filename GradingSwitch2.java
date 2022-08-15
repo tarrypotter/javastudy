@@ -1,4 +1,4 @@
-package java0101; //Switch문
+ //Switch문
                   // 학점 구하기
 import java.util.Scanner;
 
