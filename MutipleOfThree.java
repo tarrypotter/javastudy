@@ -1,4 +1,4 @@
-package java0101;  // 입력된 수가 3의 배수인지 판별하는 프로그램
+ // 입력된 수가 3의 배수인지 판별하는 프로그램
 import java.util.Scanner;
 
 public class MutipleOfThree {	
