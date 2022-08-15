@@ -1,4 +1,4 @@
-package java0202; // String 객체 생성하는 2가지 방법
+ // String 객체 생성하는 2가지 방법
 
 public class CreateStringObject {
 
