@@ -1,4 +1,4 @@
-package java0101;  
+ 
 import java.util.Scanner;
 public class Scanner2 {
 
