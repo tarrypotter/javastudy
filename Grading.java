@@ -1,4 +1,4 @@
-package java0101; //학점 구하기
+//학점 구하기
 import java.util.Scanner;
 
 public class Grading {    
