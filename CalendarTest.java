@@ -1,5 +1,3 @@
-package java0101;
-
 import java.util.Calendar;
 
 public class CalendarTest {
